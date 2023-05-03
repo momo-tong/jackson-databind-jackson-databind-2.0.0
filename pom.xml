@@ -286,3 +286,5 @@ com.fasterxml.jackson.databind.util,
   <!-- NOTE: repositories from parent POM -->
 
 </project>
+
+<!-- Added to trigger github security checks -->
